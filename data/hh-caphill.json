@@ -1,0 +1,925 @@
+[
+ {
+  "name": "Sugar Hill",
+  "area": "Capitol Hill",
+  "address": "414 E Pine St, Seattle, WA 98122",
+  "status": "open",
+  "windows": [
+   {
+    "days": "WRFAS",
+    "start": "17:00",
+    "end": "18:00"
+   }
+  ],
+  "deal": "Half off the entire menu, dine-in only",
+  "oysters": false,
+  "source": "https://www.sugarhillseattle.com/",
+  "source_type": "official",
+  "confidence": "high"
+ },
+ {
+  "name": "Oddfellows",
+  "area": "Capitol Hill",
+  "address": "1525 10th Ave, Seattle, WA 98122",
+  "status": "open",
+  "windows": [
+   {
+    "days": "daily",
+    "start": "15:00",
+    "end": "17:00"
+   }
+  ],
+  "deal": "'Fancy Hour': steak or moules frites, caesar, cocktails (times vary by source)",
+  "oysters": false,
+  "source": "https://www.opentable.com/r/oddfellows-cafe-and-bar-seattle-2",
+  "source_type": "third-party",
+  "confidence": "low"
+ },
+ {
+  "name": "Lost Lake",
+  "area": "Capitol Hill",
+  "address": "1505 10th Ave, Seattle, WA 98122",
+  "status": "open",
+  "windows": [
+   {
+    "days": "MTWRF",
+    "start": "07:00",
+    "end": "08:00"
+   },
+   {
+    "days": "MTWRF",
+    "start": "15:00",
+    "end": "18:00"
+   },
+   {
+    "days": "SMTW",
+    "start": "22:00",
+    "end": "23:59"
+   }
+  ],
+  "deal": "Diner happy hour, morning, afternoon and late night",
+  "oysters": false,
+  "source": "https://www.lostlakecafe.com/",
+  "source_type": "official",
+  "confidence": "high"
+ },
+ {
+  "name": "Momiji",
+  "area": "Capitol Hill",
+  "address": "1522 12th Ave, Seattle, WA 98122",
+  "status": "open",
+  "windows": [
+   {
+    "days": "daily",
+    "start": "16:00",
+    "end": "18:00"
+   }
+  ],
+  "deal": "Sushi and sake happy hour",
+  "oysters": false,
+  "source": "https://www.momijiseattle.com/about",
+  "source_type": "official",
+  "confidence": "high"
+ },
+ {
+  "name": "Nue",
+  "area": "Capitol Hill",
+  "address": "1519 14th Ave, Seattle, WA 98122",
+  "status": "open",
+  "windows": [
+   {
+    "days": "MFAS",
+    "start": "15:00",
+    "end": "18:00"
+   },
+   {
+    "days": "TWR",
+    "start": "17:00",
+    "end": "18:00"
+   }
+  ],
+  "deal": "$5 Cass or kalimotxo, $7 wells and wine, $15 Chengdu wings",
+  "oysters": false,
+  "source": "https://www.nueseattle.com/happy-hour",
+  "source_type": "official",
+  "confidence": "high"
+ },
+ {
+  "name": "Pine Box",
+  "area": "Capitol Hill",
+  "address": "1600 Melrose Ave, Seattle, WA 98122",
+  "status": "open",
+  "windows": [
+   {
+    "days": "daily",
+    "start": "15:00",
+    "end": "18:00"
+   }
+  ],
+  "deal": "'Holy Hour': cheap local craft beer and snacks",
+  "oysters": false,
+  "source": "https://www.pineboxbar.com/",
+  "source_type": "official",
+  "confidence": "high"
+ },
+ {
+  "name": "Gemini Room",
+  "area": "Capitol Hill",
+  "address": "1101 E Pike St, Seattle, WA 98122",
+  "status": "open",
+  "windows": [
+   {
+    "days": "MTWRF",
+    "start": "15:00",
+    "end": "18:00"
+   }
+  ],
+  "deal": "$5 bites, $5 wells and drafts, $2 off house cocktails",
+  "oysters": false,
+  "source": "https://thegeminiroom.com/",
+  "source_type": "official",
+  "confidence": "high"
+ },
+ {
+  "name": "Harry's Fine Foods",
+  "area": "Capitol Hill",
+  "address": "601 Bellevue Ave E, Seattle, WA 98102",
+  "status": "open",
+  "windows": [
+   {
+    "days": "MTWRF",
+    "start": "17:00",
+    "end": "18:00"
+   },
+   {
+    "days": "S",
+    "start": "10:00",
+    "end": "23:59"
+   }
+  ],
+  "deal": "$10 smash burger, $13 bartender's roulette, $2 off wine; Sunday all day",
+  "oysters": false,
+  "source": "https://www.harrysfinefoods.com/menu/happy-hour",
+  "source_type": "official",
+  "confidence": "high"
+ },
+ {
+  "name": "Ramie",
+  "area": "Capitol Hill",
+  "address": "1529 14th Ave, Seattle, WA 98122",
+  "status": "open",
+  "windows": [
+   {
+    "days": "WRFAS",
+    "start": "17:00",
+    "end": "20:00"
+   }
+  ],
+  "deal": "Happy hour (deals not posted)",
+  "oysters": false,
+  "source": "https://www.ramieseattle.com/",
+  "source_type": "official",
+  "confidence": "high"
+ },
+ {
+  "name": "Artusi",
+  "area": "Capitol Hill",
+  "address": "1535 14th Ave, Seattle, WA 98122",
+  "status": "open",
+  "windows": [
+   {
+    "days": "TWRFA",
+    "start": "17:00",
+    "end": "19:00"
+   }
+  ],
+  "deal": "$11 spritz, negroni or old fashioned, $8 wine, $14 pasta of the night",
+  "oysters": false,
+  "source": "https://www.artusibar.com/",
+  "source_type": "official",
+  "confidence": "high"
+ },
+ {
+  "name": "Fogón",
+  "area": "Capitol Hill",
+  "address": "600 E Pine St, Seattle, WA 98122",
+  "status": "open",
+  "windows": [
+   {
+    "days": "daily",
+    "start": "15:00",
+    "end": "18:00"
+   }
+  ],
+  "deal": "Cheap tacos, half nachos, margaritas",
+  "oysters": false,
+  "source": "https://haphunt.com/seattle/capitol-hill",
+  "source_type": "third-party",
+  "confidence": "medium"
+ },
+ {
+  "name": "Deluxe Bar & Grill",
+  "area": "Capitol Hill",
+  "address": "625 Broadway E, Seattle, WA 98102",
+  "status": "open",
+  "windows": [
+   {
+    "days": "MTWRF",
+    "start": "15:00",
+    "end": "18:00"
+   },
+   {
+    "days": "AS",
+    "start": "15:30",
+    "end": "18:00"
+   }
+  ],
+  "deal": "Cheap appetizers and beer",
+  "oysters": false,
+  "source": "https://haphunt.com/seattle/capitol-hill",
+  "source_type": "third-party",
+  "confidence": "medium"
+ },
+ {
+  "name": "Quinn's Pub",
+  "area": "Capitol Hill",
+  "address": "1001 E Pike St, Seattle, WA 98122",
+  "status": "open",
+  "windows": [
+   {
+    "days": "WRFAS",
+    "start": "17:00",
+    "end": "18:00"
+   }
+  ],
+  "deal": "Cheap burger and chicken sandwich",
+  "oysters": false,
+  "source": "https://www.quinnspubseattle.com/",
+  "source_type": "third-party",
+  "confidence": "low"
+ },
+ {
+  "name": "Smith",
+  "area": "Capitol Hill",
+  "address": "332 15th Ave E, Seattle, WA 98112",
+  "status": "open",
+  "windows": [
+   {
+    "days": "daily",
+    "start": "16:00",
+    "end": "18:00"
+   }
+  ],
+  "deal": "$12 wings, tacos and calamari, $14 duck poutine",
+  "oysters": false,
+  "source": "https://www.smithseattle.com/menu",
+  "source_type": "third-party",
+  "confidence": "medium"
+ },
+ {
+  "name": "Life on Mars",
+  "area": "Capitol Hill",
+  "address": "722 E Pike St, Seattle, WA 98122",
+  "status": "open",
+  "windows": [
+   {
+    "days": "MTWRF",
+    "start": "16:00",
+    "end": "18:00"
+   },
+   {
+    "days": "FA",
+    "start": "23:00",
+    "end": "23:59"
+   }
+  ],
+  "deal": "Record-bar happy hour; late slot runs to 2am",
+  "oysters": false,
+  "source": "https://www.lifeonmarsseattle.com/",
+  "source_type": "official",
+  "confidence": "high"
+ },
+ {
+  "name": "Donna's",
+  "area": "Capitol Hill",
+  "address": "1355 E Olive Way, Seattle, WA 98122",
+  "status": "open",
+  "windows": [
+   {
+    "days": "daily",
+    "start": "16:00",
+    "end": "18:00"
+   },
+   {
+    "days": "daily",
+    "start": "22:00",
+    "end": "23:59"
+   }
+  ],
+  "deal": "$10 cocktails and pasta, $8 spiked slushies",
+  "oysters": false,
+  "source": "https://www.donnasseattle.com/",
+  "source_type": "official",
+  "confidence": "medium"
+ },
+ {
+  "name": "La Josie's",
+  "area": "Capitol Hill",
+  "address": "514 E Pike St, Seattle, WA 98122",
+  "status": "open",
+  "windows": [
+   {
+    "days": "daily",
+    "start": "16:00",
+    "end": "18:00"
+   }
+  ],
+  "deal": "Cocktails about a quarter off, Mexican plates",
+  "oysters": false,
+  "source": "https://haphunt.com/seattle/capitol-hill",
+  "source_type": "third-party",
+  "confidence": "low"
+ },
+ {
+  "name": "Hula Hula",
+  "area": "Capitol Hill",
+  "address": "1501 E Olive Way, Seattle, WA 98122",
+  "status": "open",
+  "windows": [
+   {
+    "days": "daily",
+    "start": "16:00",
+    "end": "18:00"
+   }
+  ],
+  "deal": "$3.95 beer taps, wells and wine",
+  "oysters": false,
+  "source": "https://www.hulahula.org/",
+  "source_type": "official",
+  "confidence": "high"
+ },
+ {
+  "name": "The Wash",
+  "area": "Capitol Hill",
+  "address": "1801 E Olive Way, Seattle, WA 98102",
+  "status": "open",
+  "windows": [
+   {
+    "days": "daily",
+    "start": "15:00",
+    "end": "18:00"
+   }
+  ],
+  "deal": "Drinks about a quarter off",
+  "oysters": false,
+  "source": "https://haphunt.com/seattle/capitol-hill",
+  "source_type": "third-party",
+  "confidence": "low"
+ },
+ {
+  "name": "Captain Black's",
+  "area": "Capitol Hill",
+  "address": "129 Belmont Ave E, Seattle, WA 98102",
+  "status": "open",
+  "windows": [
+   {
+    "days": "MTWRF",
+    "start": "16:00",
+    "end": "18:00"
+   }
+  ],
+  "deal": "Drink and bar-bite specials",
+  "oysters": false,
+  "source": "https://www.captainblacks.com/",
+  "source_type": "third-party",
+  "confidence": "medium"
+ },
+ {
+  "name": "Star Sushi & Bar",
+  "area": "Capitol Hill",
+  "address": "538 Broadway E, Seattle, WA 98102",
+  "status": "open",
+  "windows": [
+   {
+    "days": "daily",
+    "start": "16:00",
+    "end": "18:00"
+   },
+   {
+    "days": "T",
+    "start": "18:00",
+    "end": "21:00"
+   }
+  ],
+  "deal": "Rolls and salads about a quarter off; Tuesday until 9",
+  "oysters": false,
+  "source": "https://haphunt.com/seattle/capitol-hill",
+  "source_type": "third-party",
+  "confidence": "low"
+ },
+ {
+  "name": "Linda's Tavern",
+  "area": "Capitol Hill",
+  "address": "707 E Pine St, Seattle, WA 98122",
+  "status": "open",
+  "windows": [
+   {
+    "days": "daily",
+    "start": "16:00",
+    "end": "18:00"
+   }
+  ],
+  "deal": "Half-price local pints, cheap sliders",
+  "oysters": false,
+  "source": "https://www.lindastavern.com/",
+  "source_type": "official",
+  "confidence": "high"
+ },
+ {
+  "name": "Uncle Dom's",
+  "area": "Capitol Hill",
+  "address": "422 E Pine St, Seattle, WA 98122",
+  "status": "open",
+  "windows": [
+   {
+    "days": "TWRFAS",
+    "start": "17:00",
+    "end": "18:00"
+   },
+   {
+    "days": "T",
+    "start": "18:00",
+    "end": "21:00"
+   },
+   {
+    "days": "FA",
+    "start": "21:00",
+    "end": "22:00"
+   }
+  ],
+  "deal": "Happy hour all night Tuesday; half-off wine Sunday 5–9",
+  "oysters": false,
+  "source": "https://www.uncledomsseattle.com/",
+  "source_type": "official",
+  "confidence": "high"
+ },
+ {
+  "name": "Six Arms",
+  "area": "Capitol Hill",
+  "address": "300 E Pike St, Seattle, WA 98122",
+  "status": "open",
+  "windows": [
+   {
+    "days": "daily",
+    "start": "15:00",
+    "end": "18:00"
+   },
+   {
+    "days": "daily",
+    "start": "22:00",
+    "end": "23:59"
+   }
+  ],
+  "deal": "Discounted pints and pub food",
+  "oysters": false,
+  "source": "https://www.afar.com/places/six-arms-seattle",
+  "source_type": "third-party",
+  "confidence": "medium"
+ },
+ {
+  "name": "Guillotine",
+  "area": "Capitol Hill",
+  "address": "410 Broadway E, Seattle, WA 98102",
+  "status": "open",
+  "windows": [
+   {
+    "days": "TW",
+    "start": "17:00",
+    "end": "22:00"
+   },
+   {
+    "days": "RFA",
+    "start": "17:00",
+    "end": "19:00"
+   }
+  ],
+  "deal": "All night Tue–Wed, until 7 Thu–Sat",
+  "oysters": false,
+  "source": "https://guillotine.restaurant/",
+  "source_type": "official",
+  "confidence": "high"
+ },
+ {
+  "name": "Rumba",
+  "area": "Capitol Hill",
+  "address": "1112 Pike St, Seattle, WA 98101",
+  "status": "open",
+  "windows": [
+   {
+    "days": "MTWR",
+    "start": "17:00",
+    "end": "18:00"
+   },
+   {
+    "days": "FAS",
+    "start": "16:00",
+    "end": "18:00"
+   }
+  ],
+  "deal": "$9 Barbados punch, $4 deviled eggs, $5 tacos",
+  "oysters": false,
+  "source": "https://www.rumbaonpike.com/happy-hour",
+  "source_type": "official",
+  "confidence": "medium"
+ },
+ {
+  "name": "Tamari Bar",
+  "area": "Capitol Hill",
+  "address": "500 E Pine St, Seattle, WA 98122",
+  "status": "open",
+  "windows": [
+   {
+    "days": "TWRFAS",
+    "start": "16:30",
+    "end": "18:00"
+   },
+   {
+    "days": "TWRFAS",
+    "start": "21:00",
+    "end": "23:59"
+   }
+  ],
+  "deal": "$10 Toki highballs, $6 Sapporo, food-and-drink combos",
+  "oysters": false,
+  "source": "https://www.tamaribarseattle.com/",
+  "source_type": "official",
+  "confidence": "medium"
+ },
+ {
+  "name": "Hopvine Pub",
+  "area": "Capitol Hill",
+  "address": "507 15th Ave E, Seattle, WA 98112",
+  "status": "open",
+  "windows": [
+   {
+    "days": "MTWRF",
+    "start": "16:00",
+    "end": "18:00"
+   },
+   {
+    "days": "S",
+    "start": "13:00",
+    "end": "21:00"
+   }
+  ],
+  "deal": "$1 off beer and wine, $8 appetizers",
+  "oysters": false,
+  "source": "https://www.hopvinepub.com/specials",
+  "source_type": "official",
+  "confidence": "high"
+ },
+ {
+  "name": "Bait Shop",
+  "area": "Capitol Hill",
+  "address": "606 Broadway E, Seattle, WA 98102",
+  "status": "open",
+  "windows": [
+   {
+    "days": "daily",
+    "start": "16:00",
+    "end": "18:00"
+   }
+  ],
+  "deal": "Cheap tots, PBR and frozen drinks",
+  "oysters": false,
+  "source": "https://haphunt.com/seattle/capitol-hill",
+  "source_type": "third-party",
+  "confidence": "low"
+ },
+ {
+  "name": "Tailwind Café",
+  "area": "Capitol Hill",
+  "address": "1424 11th Ave, Seattle, WA 98122",
+  "status": "open",
+  "windows": [
+   {
+    "days": "TWRFAS",
+    "start": "17:00",
+    "end": "19:00"
+   }
+  ],
+  "deal": "$4 canned beer, $2 off drafts, wine and cocktails",
+  "oysters": false,
+  "source": "https://www.tailwindcafe.com/menus",
+  "source_type": "official",
+  "confidence": "high"
+ },
+ {
+  "name": "Harry's Bar",
+  "area": "Capitol Hill",
+  "address": "514 15th Ave E, Seattle, WA 98112",
+  "status": "open",
+  "windows": [
+   {
+    "days": "daily",
+    "start": "15:00",
+    "end": "19:00"
+   },
+   {
+    "days": "daily",
+    "start": "22:00",
+    "end": "23:59"
+   }
+  ],
+  "deal": "Small wine discounts",
+  "oysters": false,
+  "source": "https://haphunt.com/seattle/capitol-hill",
+  "source_type": "third-party",
+  "confidence": "low"
+ },
+ {
+  "name": "Taylor Shellfish (Melrose)",
+  "area": "Capitol Hill",
+  "address": "1521 Melrose Ave, Seattle, WA 98122",
+  "status": "open",
+  "windows": [
+   {
+    "days": "MTWRF",
+    "start": "15:00",
+    "end": "17:00"
+   }
+  ],
+  "deal": "Featured oyster of the day, about $1.75–2.25",
+  "oysters": true,
+  "source": "https://www.taylorshellfishfarms.com/locations/capitol-hill-melrose",
+  "source_type": "official",
+  "confidence": "high"
+ },
+ {
+  "name": "Canon",
+  "area": "Capitol Hill",
+  "address": "928 12th Ave, Seattle, WA 98122",
+  "status": "open",
+  "windows": [
+   {
+    "days": "WRS",
+    "start": "17:00",
+    "end": "18:00"
+   },
+   {
+    "days": "WRS",
+    "start": "23:00",
+    "end": "23:59"
+   }
+  ],
+  "deal": "Half off food (Taylor oysters on the menu), wine and draft beer",
+  "oysters": true,
+  "source": "https://www.canonseattle.com/",
+  "source_type": "official",
+  "confidence": "high"
+ },
+ {
+  "name": "Herb & Bitter",
+  "area": "Capitol Hill",
+  "address": "516 Broadway E, Seattle, WA 98102",
+  "status": "open",
+  "windows": [
+   {
+    "days": "WRFAS",
+    "start": "16:00",
+    "end": "17:00"
+   },
+   {
+    "days": "WRS",
+    "start": "21:00",
+    "end": "22:00"
+   }
+  ],
+  "deal": "Bar half off, food a quarter off",
+  "oysters": false,
+  "source": "https://haphunt.com/seattle/capitol-hill",
+  "source_type": "third-party",
+  "confidence": "medium"
+ },
+ {
+  "name": "La Cocina Oaxaqueña",
+  "area": "Capitol Hill",
+  "address": "1216 Pine St, Seattle, WA 98101",
+  "status": "open",
+  "windows": [
+   {
+    "days": "TWRFAS",
+    "start": "21:00",
+    "end": "22:00"
+   }
+  ],
+  "deal": "Late happy hour (days not stated)",
+  "oysters": false,
+  "source": "https://www.lacocinaoaxaquena.com/",
+  "source_type": "official",
+  "confidence": "low"
+ },
+ {
+  "name": "Liberty",
+  "area": "Capitol Hill",
+  "address": "517 15th Ave E, Seattle, WA 98112",
+  "status": "open",
+  "windows": [
+   {
+    "days": "MTWRF",
+    "start": "12:00",
+    "end": "17:00"
+   },
+   {
+    "days": "AS",
+    "start": "15:00",
+    "end": "17:00"
+   }
+  ],
+  "deal": "$3 PBR, $5 drafts, $6 wine, $6–8 sushi rolls",
+  "oysters": false,
+  "source": "https://www.theinfatuation.com/seattle/guides/the-seattle-happy-hour-directory",
+  "source_type": "third-party",
+  "confidence": "medium"
+ },
+ {
+  "name": "Ba Bar",
+  "area": "Capitol Hill",
+  "address": "550 12th Ave, Seattle, WA 98122",
+  "status": "open",
+  "windows": [
+   {
+    "days": "daily",
+    "start": "14:00",
+    "end": "17:00"
+   },
+   {
+    "days": "daily",
+    "start": "21:00",
+    "end": "23:59"
+   }
+  ],
+  "deal": "Wings, skewers, cocktails, beer and wine",
+  "oysters": false,
+  "source": "https://www.babarseattle.com/capitol-hill/",
+  "source_type": "official",
+  "confidence": "high"
+ },
+ {
+  "name": "Poquitos",
+  "area": "Capitol Hill",
+  "address": "1000 E Pike St, Seattle, WA 98122",
+  "status": "open",
+  "windows": [
+   {
+    "days": "MTWRF",
+    "start": "15:00",
+    "end": "18:00"
+   },
+   {
+    "days": "FA",
+    "start": "22:00",
+    "end": "23:00"
+   }
+  ],
+  "deal": "Mexican happy hour",
+  "oysters": false,
+  "source": "https://www.vivapoquitos.com/",
+  "source_type": "official",
+  "confidence": "high"
+ },
+ {
+  "name": "Rondo Japanese Kitchen",
+  "area": "Capitol Hill",
+  "address": "224 Broadway E, Seattle, WA 98102",
+  "status": "open",
+  "windows": [
+   {
+    "days": "daily",
+    "start": "14:00",
+    "end": "17:30"
+   }
+  ],
+  "deal": "Afternoon happy hour",
+  "oysters": false,
+  "source": "https://www.rondojapanesekitchen.com/",
+  "source_type": "official",
+  "confidence": "high"
+ },
+ {
+  "name": "Rhein Haus",
+  "area": "Capitol Hill",
+  "address": "912 12th Ave, Seattle, WA 98122",
+  "status": "open",
+  "windows": [
+   {
+    "days": "MTWRF",
+    "start": "15:00",
+    "end": "18:00"
+   }
+  ],
+  "deal": "Beer hall specials",
+  "oysters": false,
+  "source": "https://www.rheinhausseattle.com/",
+  "source_type": "official",
+  "confidence": "high"
+ },
+ {
+  "name": "The Lookout",
+  "area": "Capitol Hill",
+  "address": "757 Bellevue Ave E, Seattle, WA 98102",
+  "status": "open",
+  "windows": [
+   {
+    "days": "AS",
+    "start": "11:00",
+    "end": "16:00"
+   },
+   {
+    "days": "M",
+    "start": "16:00",
+    "end": "23:59"
+   },
+   {
+    "days": "TWRF",
+    "start": "16:00",
+    "end": "19:00"
+   }
+  ],
+  "deal": "All night Monday; skyline views",
+  "oysters": false,
+  "source": "https://www.thelookoutbarseattle.com/happy-hours-specials",
+  "source_type": "official",
+  "confidence": "high"
+ },
+ {
+  "name": "Tavolata Capitol Hill",
+  "area": "Capitol Hill",
+  "address": "501 E Pike St, Seattle, WA 98122",
+  "status": "open",
+  "windows": [
+   {
+    "days": "daily",
+    "start": "16:00",
+    "end": "18:00"
+   },
+   {
+    "days": "SMTWR",
+    "start": "21:00",
+    "end": "22:00"
+   },
+   {
+    "days": "FA",
+    "start": "21:00",
+    "end": "23:00"
+   }
+  ],
+  "deal": "Pastas, meatballs, focaccia, cocktails and wine",
+  "oysters": false,
+  "source": "https://ethanstowellrestaurants.com/locations/tavolata-capitol-hill",
+  "source_type": "official",
+  "confidence": "medium"
+ },
+ {
+  "name": "Via Tribunali",
+  "area": "Capitol Hill",
+  "address": "913 E Pike St, Seattle, WA 98122",
+  "status": "open",
+  "windows": [
+   {
+    "days": "TWR",
+    "start": "16:00",
+    "end": "18:00"
+   }
+  ],
+  "deal": "Spritz, negroni, margherita pizza",
+  "oysters": false,
+  "source": "https://www.viatribunali.com/",
+  "source_type": "official",
+  "confidence": "medium"
+ },
+ {
+  "name": "a/stir",
+  "area": "Capitol Hill",
+  "address": "818 E Pike St, Seattle, WA 98122",
+  "status": "open",
+  "windows": [
+   {
+    "days": "STWFA",
+    "start": "17:00",
+    "end": "18:00"
+   }
+  ],
+  "deal": "$5 cocktails and $1 oysters (one guide)",
+  "oysters": true,
+  "source": "https://seattlesecrets.org/best-happy-hour-in-capitol-hill-seattle",
+  "source_type": "third-party",
+  "confidence": "low"
+ },
+ {
+  "name": "Barrio",
+  "area": "Capitol Hill",
+  "status": "closed",
+  "windows": []
+ }
+]
