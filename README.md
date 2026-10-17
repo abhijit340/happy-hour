@@ -2,7 +2,7 @@
 
 Which happy hours are on right now in Seattle's Capitol Hill, Belltown, Pike Place & waterfront and downtown, sorted by minutes left. Pick any day and time to plan ahead, filter by neighborhood, or show oysters only.
 
-Live at: `https://<project>.pages.dev/` (Cloudflare Pages, site root = repo root).
+Live at: https://happy-hour-aj.pages.dev/ (Cloudflare Pages, site root = repo root).
 
 A static page: plain HTML, CSS and JavaScript, no frameworks, CDN, web fonts or analytics. It installs to a phone's home screen and works offline. The only thing it saves is your neighborhood and oyster filter, in this browser.
 
